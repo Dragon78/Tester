@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="ConfirmButton">Confirm</string>
+    <string name="EditButton">Edit</string>
+    <string name="CaptureImageButton">CAPTURE NEW IMAGE</string>
+    <string name="LoadImageButton">LOAD IMAGE FROM LIBRARY</string>
+    <string name="HelpButton">HELP ME !!!</string>
+    <string name="CaptureButton">CAPTURE</string>
+    <string name="ProcessImageButton">PROCESS IMAGE</string>
+    <string name="LinkToWebPage">click to visit our website</string>
+</resources>
